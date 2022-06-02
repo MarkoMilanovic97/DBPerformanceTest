@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/orojackson/Documents/fax/git/DBPerformanceTest/back-end/sql/SqlServerApi/SqlServerApi/SqlServerApi.csproj": {}
+  },
+  "projects": {
+    "/Users/orojackson/Documents/fax/git/DBPerformanceTest/back-end/sql/SqlServerApi/SqlServerApi/SqlServerApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/orojackson/Documents/fax/git/DBPerformanceTest/back-end/sql/SqlServerApi/SqlServerApi/SqlServerApi.csproj",
+        "projectName": "SqlServerApi",
+        "projectPath": "/Users/orojackson/Documents/fax/git/DBPerformanceTest/back-end/sql/SqlServerApi/SqlServerApi/SqlServerApi.csproj",
+        "packagesPath": "/Users/orojackson/.nuget/packages/",
+        "outputPath": "/Users/orojackson/Documents/fax/git/DBPerformanceTest/back-end/sql/SqlServerApi/SqlServerApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/orojackson/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.16, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

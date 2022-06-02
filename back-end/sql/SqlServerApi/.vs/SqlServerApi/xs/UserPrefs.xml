@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{512B5A0C-2F86-4390-AA5B-F6263B075D2D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SqlServerApi/Controllers/IndexController.cs">
+    <Files>
+      <File FileName="SqlServerApi/Controllers/SingleTableController.cs" Line="150" Column="18" />
+      <File FileName="SqlServerApi/Controllers/IndexController.cs" Line="193" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SqlServerApi" expanded="True">
+            <Node name="SqlServerApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="IndexController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SqlServerApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SqlServerApi
+build_property.ProjectDir = /Users/orojackson/Documents/fax/git/DBPerformanceTest/back-end/sql/SqlServerApi/SqlServerApi/
